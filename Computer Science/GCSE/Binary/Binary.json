@@ -1,0 +1,55 @@
+{
+  "keywords" : [
+    {	"word": "Binary",
+    	"description" : "A way of representing numbers with 1s and 0s, uses base 2"
+    },
+    {"word": "Binary Digit",
+     "description" : "Either a 1 or a 0"
+    },
+    {"word":"Denery", 
+     "description":"The way we usually write numbers, uses base 10."
+    },
+    {"word":"Byte",
+     "description":"8 bits grouped together, can go up to 255"
+    },
+    {"word":"Overflow Error",
+     "description":"If a calculation results in a 9 digit binary number, this causes this to appear"
+    },
+    {"word":"Hexadecimal",
+     "description":"A way of representing numbers with 16 digits, base 16!"
+    },
+    {"word":"F",
+     "Description":"The highest digit in hexadecimal, means 15"
+    },
+    {"word":"Data",
+     "description":"What we measure information in"
+    },
+    {"word":"Convert",
+     "description":"Turn a piece of data from one type to another"
+    },
+    {"word":"Remainder",
+     "description":"What is left over after a division. Used when converting something to Bindary"
+    },
+    {"word":"Nibble",
+     "description": "4 bits, half a byte"
+    }, 
+    {"word":"Divide",
+     "description":"Share evenly between different numbers, used to convert numbers into binary"
+    },
+    {"word":"Multipy by 16",
+     "definition":"Used when converting a number from denery to hexadecimall"
+    },
+    {"word":"Kilobyte",
+     "definition": "1000 bytes"
+    },
+    {"word":"Megabyte",
+     "definition":"One million bytes, 1000 Kilobytes"
+    },
+    {"word":"Gigabyte",
+     "definition":"One billion bytes, 1000 Megabutes"
+    },
+    {"word":"Number System", 
+    "definition":"A way of representing numbers"
+    }
+  ]
+}
