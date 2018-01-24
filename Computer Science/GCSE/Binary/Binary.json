@@ -9,7 +9,7 @@
     {"word":"Denery", 
      "description":"The way we usually write numbers, uses base 10."
     },
-    {"word":"Bite",
+    {"word":"Byte",
      "description":"8 bits grouped together, can go up to 255"
     },
     {"word":"Overflow Error",
