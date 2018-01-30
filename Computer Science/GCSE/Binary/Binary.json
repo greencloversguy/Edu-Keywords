@@ -28,16 +28,16 @@
      "description":"Turn a piece of data from one type to another"
     },
     {"word":"Remainder",
-     "description":"What is left over after a division. Used when converting something to Bindary"
+     "description":"What is left over after a division. Used when converting something to Binary"
     },
     {"word":"Nibble",
      "description": "4 bits, half a byte"
     }, 
     {"word":"Divide",
-     "description":"Share evenly between different numbers, used to convert numbers into binary"
+     "description":"Share evenly between different numbers, used to convert numbers into Binary"
     },
     {"word":"Multipy by 16",
-     "definition":"Used when converting a number from denery to hexadecimall"
+     "definition":"Used when converting a number from denery to hexadecimal"
     },
     {"word":"Kilobyte",
      "definition": "1000 bytes"
@@ -46,7 +46,7 @@
      "definition":"One million bytes, 1000 Kilobytes"
     },
     {"word":"Gigabyte",
-     "definition":"One billion bytes, 1000 Megabutes"
+     "definition":"One billion bytes, 1000 Megabytes"
     },
     {"word":"Number System", 
     "definition":"A way of representing numbers"
